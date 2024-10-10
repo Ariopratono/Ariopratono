@@ -6,8 +6,10 @@
 ### <div align="center">Hi, I'm Ario pratono, also known as Ario. I'm a programmer in 3D game creation. I've created several games.</div>  
   
 
-- First Project [Polucity](https://github.com/Ariopratono/SeriusGame)  
-  
+- First Project [Polucity](https://github.com/Ariopratono/SeriusGame)
+  <td align="center">
+  <img src="https://github.com/Ariopratono/gif-Polucity/blob/main/1010-ezgif.com-video-to-gif-converter.gif" alt="1" style="width:100%;height:auto;">
+    </td>
 
 - Second Project [Overcook](https://github.com/Ariopratono/SeriusGame)  
   

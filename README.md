@@ -30,11 +30,11 @@ ariopratono145@gmail.com
 <td valign="text-top">Overcook is a simulation game to become a chef who must provide food for customers within 60 seconds. In this project I was tasked as a Programmer in its creation I included, Making mechanics such as interacting with goods, cutting and cooking food, in the game you can interact with goods and then turn them into semi-finished goods, Making recipes, to help players make recipes that can be made anything. This project is still in progress. for a Capstone assignment in our assignment we have to make a finished game. <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://juli93.itch.io/polucity">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Ariopratono/Overcook">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://youtu.be/oWWUXF--njk?si=OY6ToOTj9eEL5DZg">Trailer</a></td> <!--link1-->
       <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>

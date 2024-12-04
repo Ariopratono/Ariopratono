@@ -61,7 +61,9 @@ ariopratono145@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">.</td> <!--desc-->
+      <td valign="text-top">players will struggle to survive in a zombie-infested environment. The game combines intense shooting action elements with survival strategy. Key Features:
+Weapon variety: Can use weapons according to needs
+Survival Mode: Survive as long as possible against increasingly difficult waves of zombies. Use enough bullets to survive as long as possible. I play an important role as a programmer. [Your Name] has ensured that every element of Zombie Onslaught: Survival runs smoothly, from complex game logic to rich interactivity features, ensuring that all gameplay mechanics are seamlessly integrated and provide an immersive experience for all players.</td> <!--desc-->
       <td valign="text-top">players will struggle to survive in a zombie-infested environment. The game combines intense shooting action elements with survival strategy. Key Features:
 Weapon variety: Can use weapons according to needs
 Survival Mode: Survive as long as possible against increasingly difficult waves of zombies. Use enough bullets to survive as long as possible. I play an important role as a programmer. [Your Name] has ensured that every element of Zombie Onslaught: Survival runs smoothly, from complex game logic to rich interactivity features, ensuring that all gameplay mechanics are seamlessly integrated and provide an immersive experience for all players.</td> <!--desc-->

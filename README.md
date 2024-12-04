@@ -61,8 +61,10 @@ ariopratono145@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
+      <td valign="text-top">.</td> <!--desc-->
+      <td valign="text-top">players will struggle to survive in a zombie-infested environment. The game combines intense shooting action elements with survival strategy. Key Features:
+Weapon variety: Can use weapons according to needs
+Survival Mode: Survive as long as possible against increasingly difficult waves of zombies. Use enough bullets to survive as long as possible. I play an important role as a programmer. [Your Name] has ensured that every element of Zombie Onslaught: Survival runs smoothly, from complex game logic to rich interactivity features, ensuring that all gameplay mechanics are seamlessly integrated and provide an immersive experience for all players.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
